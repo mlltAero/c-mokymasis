@@ -16,4 +16,5 @@ int main()
     ats = ats / 3;
     printf("\nAverage: %d %s %p", ats, " >> " ,&ats);
     return 0;
+    //h
 }
